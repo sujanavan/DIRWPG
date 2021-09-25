@@ -1,3 +1,3 @@
 # DS3GP
-Dir Struc-bas Stat Sit Gen us P
+Dir Struc-bas Stat Web Sit Gen us P
 UNDER CONSTRUCION - COMEBACK IN 2022
