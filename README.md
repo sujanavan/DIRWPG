@@ -1,3 +1,3 @@
-# DS3GP
-Dir Struc-bas Stat Web Sit Gen us P
-UNDER CONSTRUCION - COMEBACK IN 2022
+# DSSWGP
+Directory Structure-based Static Webpage Generator using PHP
+Demo @ http://tsujan.atwebpages.com/DSSWGP/
