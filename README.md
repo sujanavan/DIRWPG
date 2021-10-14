@@ -1,3 +1,3 @@
 # DSSWGP
-Directory Structure-based Static Webpage Generator using PHP<br>
+(Directory Structure)-based Static Webpage Generator using PHP<br>
 Demo @ http://tsujan.atwebpages.com/DSSWGP/
