@@ -1,2 +1,2 @@
-# DSSWGP
-(Directory Structure)-based Static Webpage Generator using PHP
+# DIRWEBGEN
+Home page genrator based on directory structure of deployment directory
