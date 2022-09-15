@@ -1,2 +1,2 @@
 # DirWebGen
-Home page genrator based on directory structure of deployment directory
+Home page generator based on structure of deployment directory
